@@ -11,178 +11,76 @@
 
 ### Nhóm 1: Kiếm tiền (Top funnel - kéo user mới)
 
-| # | Tên group | Ghi chú |
-|---|-----------|---------|
-| 1 | Kiếm tiền online 2026 | Từ khóa hot, dễ search |
-| 2 | Việc làm online cho sinh viên | Nhắm đối tượng sinh viên |
+| # | Tên group | File nội dung | Ghi chú |
+|---|-----------|---------------|---------|
+| 1 | Kiếm tiền online 2026 | [groups/01-kiem-tien-online-2026.md](groups/01-kiem-tien-online-2026.md) | Từ khóa hot, dễ search |
+| 2 | Việc làm online cho sinh viên | [groups/02-viec-lam-online-sinh-vien.md](groups/02-viec-lam-online-sinh-vien.md) | Nhắm đối tượng sinh viên |
 
 ### Nhóm 2: Tool / Trick
 
-| # | Tên group | Ghi chú |
-|---|-----------|---------|
-| 3 | Tool tăng follow TikTok miễn phí | Từ khóa "miễn phí" thu hút |
-| 4 | Chia sẻ cách lên xu hướng TikTok | Content hướng dẫn |
+| # | Tên group | File nội dung | Ghi chú |
+|---|-----------|---------------|---------|
+| 3 | Tool tăng follow TikTok miễn phí | [groups/03-tool-tang-follow-tiktok.md](groups/03-tool-tang-follow-tiktok.md) | Từ khóa "miễn phí" thu hút |
+| 4 | Chia sẻ cách lên xu hướng TikTok | [groups/04-cach-len-xu-huong-tiktok.md](groups/04-cach-len-xu-huong-tiktok.md) | Content hướng dẫn |
 
 ### Nhóm 3: Cộng đồng (Build brand + giữ user)
 
-| # | Tên group | Ghi chú |
-|---|-----------|---------|
-| 5 | Cộng đồng GoLike Việt Nam | Nhóm chính thức, giữ chân user |
+| # | Tên group | File nội dung | Ghi chú |
+|---|-----------|---------------|---------|
+| 5 | Cộng đồng GoLike Việt Nam | [groups/05-cong-dong-golike-viet-nam.md](groups/05-cong-dong-golike-viet-nam.md) | Nhóm chính thức, giữ chân user |
 
 ### Nhóm 4: Niche nhỏ
 
-| # | Tên group | Ghi chú |
-|---|-----------|---------|
-| 6 | Buff follow TikTok giá rẻ | Nhắm người cần mua dịch vụ |
-| 7 | Tăng like Facebook thật | Từ khóa cụ thể, dễ convert |
-| 8 | Tăng sub YouTube nhanh | Mở rộng sang YouTube |
-| 9 | Hội review app kiếm tiền | Dạng review, tạo thảo luận |
-| 10 | Mẹo tăng tương tác Facebook | Từ khóa rộng, kéo admin page |
-
-## Checklist chung (áp dụng cho tất cả group)
-
-- [ ] Tạo group (chọn Private group)
-- [ ] Đặt tên group có chứa từ khóa chính
-- [ ] Thiết kế ảnh cover bằng Canva (1640x856px)
-- [ ] Viết mô tả group có từ khóa (SEO Facebook)
-- [ ] Đặt 3 câu hỏi kiểm duyệt thành viên
-- [ ] Mời 5-10 bạn bè thật vào group làm member đầu tiên
+| # | Tên group | File nội dung | Ghi chú |
+|---|-----------|---------------|---------|
+| 6 | Buff follow TikTok giá rẻ | [groups/06-buff-follow-tiktok-gia-re.md](groups/06-buff-follow-tiktok-gia-re.md) | Nhắm người cần mua dịch vụ |
+| 7 | Tăng like Facebook thật | [groups/07-tang-like-facebook-that.md](groups/07-tang-like-facebook-that.md) | Từ khóa cụ thể, dễ convert |
+| 8 | Tăng sub YouTube nhanh | [groups/08-tang-sub-youtube-nhanh.md](groups/08-tang-sub-youtube-nhanh.md) | Mở rộng sang YouTube |
+| 9 | Hội review app kiếm tiền | [groups/09-hoi-review-app-kiem-tien.md](groups/09-hoi-review-app-kiem-tien.md) | Dạng review, tạo thảo luận |
+| 10 | Mẹo tăng tương tác Facebook | [groups/10-meo-tang-tuong-tac-facebook.md](groups/10-meo-tang-tuong-tac-facebook.md) | Từ khóa rộng, kéo admin page |
 
 ---
 
-## Checklist Nhóm 1: Kiếm tiền
+## Hướng dẫn sử dụng
 
-### Group 1 - Kiếm tiền online 2026
+Mỗi group có 1 file nội dung riêng trong thư mục `groups/`. Trong mỗi file có sẵn:
 
-- [ ] Ảnh cover: hình tiền / laptop, text "Kiếm tiền online 2026"
-- [ ] Mô tả: chứa từ khóa "kiếm tiền online", "làm việc tại nhà", "thu nhập thụ động"
-- [ ] Câu hỏi kiểm duyệt:
-  - Bạn đang làm gì để kiếm thêm thu nhập?
-  - Bạn biết đến group qua đâu?
-  - Bạn muốn học cách kiếm tiền online nào?
-- [ ] Bài ghim 1: "Tổng hợp 10 cách kiếm tiền online uy tín 2026" (bài giá trị, giữ chân)
-- [ ] Bài ghim 2: "Nội quy group - Đọc trước khi đăng bài"
-- [ ] Bài ghim 3: "Bạn đang kiếm được bao nhiêu/tháng từ online? Comment chia sẻ!" (tạo tương tác)
+| Nội dung | Mô tả | Cách dùng |
+|----------|-------|-----------|
+| **Prompt tạo ảnh cover** | Prompt để paste vào Canva AI hoặc ChatGPT | Copy prompt → tạo ảnh → upload lên group |
+| **Mô tả group** | Text mô tả có chứa từ khóa SEO | Copy → paste vào phần "Giới thiệu" của group |
+| **Câu hỏi kiểm duyệt** | 3 câu hỏi cho member mới | Vào Settings → Membership Questions → paste |
+| **Nội quy group** | Bài nội quy hoàn chỉnh | Copy → đăng bài → ghim lên đầu group |
+| **3 bài ghim** | Bài giá trị + nội quy + bài tương tác | Copy từng bài → đăng → ghim theo thứ tự |
 
-### Group 2 - Việc làm online cho sinh viên
+### Quy trình tạo 1 group (theo thứ tự):
 
-- [ ] Ảnh cover: hình sinh viên + laptop, tone trẻ trung
-- [ ] Mô tả: chứa từ khóa "việc làm sinh viên", "part-time online", "kiếm tiền không cần vốn"
-- [ ] Câu hỏi kiểm duyệt:
-  - Bạn đang là sinh viên năm mấy?
-  - Bạn muốn tìm việc gì? (part-time / freelance / online)
-  - Bạn có thể làm việc bao nhiêu giờ/ngày?
-- [ ] Bài ghim 1: "5 việc làm online phù hợp sinh viên - không cần kinh nghiệm"
-- [ ] Bài ghim 2: "Nội quy group + Cách đăng tin tuyển dụng"
-- [ ] Bài ghim 3: "Bạn đang tìm việc gì? Comment để được tư vấn!" (tạo tương tác)
+1. Mở file nội dung của group cần tạo (link ở bảng trên)
+2. Tạo group trên Facebook → chọn **Private Group**
+3. Copy **prompt tạo ảnh** → tạo ảnh cover bằng Canva → upload
+4. Copy **mô tả group** → paste vào phần Giới thiệu
+5. Copy **3 câu hỏi kiểm duyệt** → paste vào Settings > Membership Questions
+6. Đăng **bài ghim 1** (bài giá trị) → ghim
+7. Đăng **bài ghim 2** (nội quy) → ghim
+8. Đăng **bài ghim 3** (bài tương tác) → ghim
+9. Mời 5-10 bạn bè thật vào group
 
 ---
 
-## Checklist Nhóm 2: Tool / Trick
+## Checklist tổng (tick khi xong từng group)
 
-### Group 3 - Tool tăng follow TikTok miễn phí
-
-- [ ] Ảnh cover: logo TikTok + icon tăng follow, tone đỏ/đen
-- [ ] Mô tả: chứa từ khóa "tăng follow TikTok", "tool miễn phí", "tăng follow thật"
-- [ ] Câu hỏi kiểm duyệt:
-  - Link TikTok của bạn?
-  - Bạn đang có bao nhiêu follow?
-  - Bạn muốn tăng follow để làm gì? (bán hàng / nổi tiếng / vui)
-- [ ] Bài ghim 1: "Hướng dẫn tăng 1000 follow TikTok miễn phí bằng GoLike" (dẫn về GoLike)
-- [ ] Bài ghim 2: "Nội quy - Cấm spam, cấm bán hàng linh tinh"
-- [ ] Bài ghim 3: "Drop link TikTok - Follow lẫn nhau!" (tạo tương tác + giữ member)
-
-### Group 4 - Chia sẻ cách lên xu hướng TikTok
-
-- [ ] Ảnh cover: icon trending + TikTok, tone sáng bắt mắt
-- [ ] Mô tả: chứa từ khóa "lên xu hướng TikTok", "thuật toán TikTok", "viral TikTok"
-- [ ] Câu hỏi kiểm duyệt:
-  - Bạn làm TikTok bao lâu rồi?
-  - Video nhiều view nhất của bạn được bao nhiêu?
-  - Bạn muốn học gì trong group này?
-- [ ] Bài ghim 1: "Thuật toán TikTok 2026 - Cách để video lên xu hướng"
-- [ ] Bài ghim 2: "Nội quy group"
-- [ ] Bài ghim 3: "Video nào của bạn viral nhất? Chia sẻ bí quyết!" (tạo thảo luận)
-
----
-
-## Checklist Nhóm 3: Cộng đồng
-
-### Group 5 - Cộng đồng GoLike Việt Nam
-
-- [ ] Ảnh cover: logo GoLike chính thức, tone chuyên nghiệp
-- [ ] Mô tả: chứa từ khóa "GoLike", "kiếm tiền GoLike", "cộng đồng GoLike chính thức"
-- [ ] Câu hỏi kiểm duyệt:
-  - Bạn đã dùng GoLike chưa?
-  - Username GoLike của bạn? (nếu có)
-  - Bạn muốn tìm hiểu gì về GoLike?
-- [ ] Bài ghim 1: "GoLike là gì? Hướng dẫn đăng ký + kiếm tiền từ A-Z"
-- [ ] Bài ghim 2: "Nội quy cộng đồng GoLike chính thức"
-- [ ] Bài ghim 3: "Hôm nay bạn kiếm được bao nhiêu từ GoLike? Flex đi!" (tạo FOMO + tương tác)
-
----
-
-## Checklist Nhóm 4: Niche nhỏ
-
-### Group 6 - Buff follow TikTok giá rẻ
-
-- [ ] Ảnh cover: TikTok + giá rẻ, tone nổi bật
-- [ ] Mô tả: chứa từ khóa "buff follow TikTok", "tăng follow giá rẻ", "follow thật"
-- [ ] Câu hỏi kiểm duyệt:
-  - Bạn cần buff bao nhiêu follow?
-  - Bạn đã dùng dịch vụ buff nào chưa?
-  - Budget của bạn khoảng bao nhiêu?
-- [ ] Bài ghim 1: "Bảng giá buff follow TikTok - Cập nhật 2026" (có nhắc GoLike)
-- [ ] Bài ghim 2: "Nội quy mua bán - Cách tránh lừa đảo"
-- [ ] Bài ghim 3: "Ai cần buff follow? Comment số lượng + link!" (tạo lead)
-
-### Group 7 - Tăng like Facebook thật
-
-- [ ] Ảnh cover: Facebook + like icon, tone xanh
-- [ ] Mô tả: chứa từ khóa "tăng like Facebook", "like thật", "tăng tương tác Facebook"
-- [ ] Câu hỏi kiểm duyệt:
-  - Bạn cần tăng like cho page hay profile?
-  - Bạn đã thử cách nào rồi?
-  - Bạn biết đến group qua đâu?
-- [ ] Bài ghim 1: "3 cách tăng like Facebook thật - Miễn phí + Trả phí"
-- [ ] Bài ghim 2: "Nội quy group"
-- [ ] Bài ghim 3: "Drop link bài viết - Like hỗ trợ nhau!" (tạo tương tác)
-
-### Group 8 - Tăng sub YouTube nhanh
-
-- [ ] Ảnh cover: YouTube + subscribe button, tone đỏ
-- [ ] Mô tả: chứa từ khóa "tăng sub YouTube", "tăng subscribe", "YouTube Việt Nam"
-- [ ] Câu hỏi kiểm duyệt:
-  - Link kênh YouTube của bạn?
-  - Kênh bạn đang có bao nhiêu sub?
-  - Bạn làm content gì trên YouTube?
-- [ ] Bài ghim 1: "Cách tăng 1000 sub YouTube để bật kiếm tiền"
-- [ ] Bài ghim 2: "Nội quy group"
-- [ ] Bài ghim 3: "Drop link kênh - Sub lẫn nhau!" (tạo tương tác)
-
-### Group 9 - Hội review app kiếm tiền
-
-- [ ] Ảnh cover: icons các app + tiền, tone xanh lá
-- [ ] Mô tả: chứa từ khóa "app kiếm tiền", "review app", "app kiếm tiền uy tín"
-- [ ] Câu hỏi kiểm duyệt:
-  - Bạn đang dùng app kiếm tiền nào?
-  - Bạn kiếm được bao nhiêu/tháng từ app?
-  - Bạn muốn tìm app kiếm tiền nào?
-- [ ] Bài ghim 1: "Top 10 app kiếm tiền uy tín 2026 (có GoLike)" (dẫn về GoLike)
-- [ ] Bài ghim 2: "Nội quy - Cách review app chuẩn"
-- [ ] Bài ghim 3: "App nào bạn đang dùng mà thấy ok? Review giúp mọi người!" (UGC)
-
-### Group 10 - Mẹo tăng tương tác Facebook
-
-- [ ] Ảnh cover: Facebook + biểu đồ tăng trưởng, tone xanh
-- [ ] Mô tả: chứa từ khóa "tăng tương tác Facebook", "thuật toán Facebook", "reach Facebook"
-- [ ] Câu hỏi kiểm duyệt:
-  - Bạn đang chạy page hay profile?
-  - Bạn có bao nhiêu follower?
-  - Bạn muốn học gì trong group?
-- [ ] Bài ghim 1: "Thuật toán Facebook 2026 - Cách tăng reach tự nhiên"
-- [ ] Bài ghim 2: "Nội quy group"
-- [ ] Bài ghim 3: "Page/profile của bạn đang reach bao nhiêu? Chia sẻ để cùng phân tích!" (tạo thảo luận)
+| # | Group | Tạo group | Cover | Mô tả | Câu hỏi | Bài ghim 1 | Bài ghim 2 | Bài ghim 3 | Mời member |
+|---|-------|-----------|-------|-------|---------|------------|------------|------------|------------|
+| 1 | Kiếm tiền online 2026 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 2 | Việc làm online cho sinh viên | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 3 | Tool tăng follow TikTok miễn phí | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 4 | Chia sẻ cách lên xu hướng TikTok | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 5 | Cộng đồng GoLike Việt Nam | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 6 | Buff follow TikTok giá rẻ | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 7 | Tăng like Facebook thật | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 8 | Tăng sub YouTube nhanh | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 9 | Hội review app kiếm tiền | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 10 | Mẹo tăng tương tác Facebook | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
 ## Lưu ý
 - Mỗi group phải có style riêng, KHÔNG copy giống nhau
