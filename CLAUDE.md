@@ -26,22 +26,22 @@ System to manage and scale Facebook Groups for GoLike. Goal: 30 active groups, 1
 - Each group must have its own style
 
 ## Tech Stack
-- MkDocs Material: documentation site
+- VitePress: documentation site
 - Vercel: hosting/deploy (auto deploy on push)
 - TypeScript: for any tool/automation built
 
 ## Docs
-- All docs are in `docs/` directory (also serves as MkDocs docs_dir)
+- All docs are in `docs/` directory (VitePress docs root)
 - `docs/index.md`: homepage, `docs/ideal.md`: SOP overview
 - `docs/groups/`: individual group plans
 - File names: Vietnamese without diacritics, e.g. `01-tao-group.md`
 - File content: Vietnamese WITH diacritics (tiếng Việt có dấu)
 - Format: header, assignee, timeline, checklist, notes, deliverables
-- When adding new docs, update `nav` in `mkdocs.yml`
+- When adding new docs, update sidebar in `docs/.vitepress/config.ts`
 
 ## Development Guidelines
 - Use TypeScript for any tool/automation built
 - Daily reports follow the form in `docs/ideal.md`
 - Any workflow changes must align with the SOP in `docs/ideal.md`
-- Local preview: `mkdocs serve` (requires `pip install mkdocs-material`)
+- Local preview: `npm run docs:dev`
 - Deploy: push to `master` branch → Vercel auto deploys
