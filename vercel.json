@@ -1,6 +1,6 @@
 {
   "framework": null,
-  "buildCommand": "python3 -m mkdocs build",
-  "outputDirectory": "site",
-  "installCommand": "python3 -m pip install mkdocs-material"
+  "buildCommand": "npm run docs:build",
+  "outputDirectory": "docs/.vitepress/dist",
+  "installCommand": "npm install"
 }
