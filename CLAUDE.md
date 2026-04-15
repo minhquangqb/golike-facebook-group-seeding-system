@@ -6,7 +6,8 @@ System to manage and scale Facebook Groups for GoLike. Goal: 30 active groups, 1
 ## Project Context
 - This is an operation/growth project, not a SaaS product
 - Core workflow: Content creation -> Seeding (like/comment) -> Traffic acquisition
-- Detailed SOP reference: `ideal.md`
+- Detailed SOP reference: `docs/ideal.md`
+- Git repo: `git@gitlab.com:dungqb/golike-facebook-group-seeding-system.git`
 
 ## Teams & Roles
 - **Content team** (1-2 people): Write posts, spin content, publish to groups
@@ -25,15 +26,22 @@ System to manage and scale Facebook Groups for GoLike. Goal: 30 active groups, 1
 - Each group must have its own style
 
 ## Tech Stack
-- TBD (will update when building tools)
+- MkDocs Material: documentation site
+- Vercel: hosting/deploy (auto deploy on push)
+- TypeScript: for any tool/automation built
 
 ## Docs
-- All docs are in `docs/` directory, one `.md` file per major task
+- All docs are in `docs/` directory (also serves as MkDocs docs_dir)
+- `docs/index.md`: homepage, `docs/ideal.md`: SOP overview
+- `docs/groups/`: individual group plans
 - File names: Vietnamese without diacritics, e.g. `01-tao-group.md`
 - File content: Vietnamese WITH diacritics (tiếng Việt có dấu)
 - Format: header, assignee, timeline, checklist, notes, deliverables
+- When adding new docs, update `nav` in `mkdocs.yml`
 
 ## Development Guidelines
 - Use TypeScript for any tool/automation built
-- Daily reports follow the form in `ideal.md`
-- Any workflow changes must align with the SOP in `ideal.md`
+- Daily reports follow the form in `docs/ideal.md`
+- Any workflow changes must align with the SOP in `docs/ideal.md`
+- Local preview: `mkdocs serve` (requires `pip install mkdocs-material`)
+- Deploy: push to `master` branch → Vercel auto deploys
