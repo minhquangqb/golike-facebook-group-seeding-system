@@ -1,4 +1,4 @@
-ok# Group 2 - Việc làm online cho sinh viên
+# Group 2 - Việc làm online cho sinh viên
 
 > Nhóm: 1 - Kiếm tiền (Top funnel)
 > Loại: Private Group

@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/minhquangqb/golike-facebook-group-seeding-system#readme",
   "devDependencies": {
-    "vitepress": "^1.6.4"
+    "exceljs": "^4.4.0",
+    "vitepress": "^1.6.4",
+    "xlsx": "^0.18.5"
   }
 }
