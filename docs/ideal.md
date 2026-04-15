@@ -199,6 +199,8 @@
 
 # 📊 BÁO CÁO HẰNG NGÀY
 
+> 📋 **[Google Sheets Báo cáo](https://docs.google.com/spreadsheets/d/1ya4ns4HBq063FyAthI9ayta-SZ8Et_-v7JCk3CAODUo/edit?usp=sharing)** — Điền báo cáo hằng ngày tại đây
+
 ---
 
 ## 📌 Form báo cáo
