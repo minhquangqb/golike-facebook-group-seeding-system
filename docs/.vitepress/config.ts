@@ -1,9 +1,20 @@
 import { defineConfig } from 'vitepress'
-
+import fs from 'node:fs'
 export default defineConfig({
   title: 'GoLike Seeding Docs',
   description: 'SOP xây dựng hệ sinh thái Facebook Group cho GoLike',
   lang: 'vi-VN',
+
+  transformPageData(pageData, { siteConfig }) {
+    const srcDir = siteConfig.srcDir
+    const filePath = pageData.filePath
+    try {
+      const raw = fs.readFileSync(`${srcDir}/${filePath}`, 'utf-8')
+      pageData.frontmatter.rawMarkdown = raw
+    } catch {
+      // ignore
+    }
+  },
 
   themeConfig: {
     nav: [

@@ -1,0 +1,45 @@
+.copy-block {
+  position: relative;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  background: var(--vp-c-bg-soft);
+}
+
+.copy-block-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  padding: 4px 12px;
+  font-size: 12px;
+  font-weight: 500;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.copy-block-btn:hover {
+  color: var(--vp-c-text-1);
+  border-color: var(--vp-c-text-2);
+}
+
+.copy-block-btn.copied {
+  color: var(--vp-c-green-1);
+  border-color: var(--vp-c-green-1);
+}
+
+.copy-block-content {
+  margin: 0;
+}
+
+.copy-block-content > *:first-child {
+  margin-top: 0;
+}
+
+.copy-block-content > *:last-child {
+  margin-bottom: 0;
+}
